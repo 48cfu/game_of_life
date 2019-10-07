@@ -113,7 +113,7 @@ int main(int argc, char **argv) {
 		cout << "Compiler: " <<__cplusplus << endl;
 		GameFactory game{};
 		int k = 0;
-		while (k < 300){
+		while (k < 299){
 			game.display();
 			k++;
 		}
