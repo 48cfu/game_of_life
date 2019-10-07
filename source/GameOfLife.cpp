@@ -110,7 +110,7 @@ int main(int argc, char **argv) {
 				printf("%d + %d = %d \n", ii[i], tests[i], (ii[i] + tests[i]));
 			}
 		}*/
-		cout << __cplusplus << endl;
+		cout << "Compiler: " <<__cplusplus << endl;
 		GameFactory game{};
 		int k = 0;
 		while (k < 300){
