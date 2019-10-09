@@ -14,20 +14,17 @@ The instructions in Eclipse are:
 
 1. File -> Import... 
 
-![file menu](https://github.com/Tawishi/game_of_life/blob/Issue%233/1.jpg)
+![file menu](help/1.jpg)
 
    -> Git -> Projects from Git 
 
-![git](https://github.com/Tawishi/game_of_life/blob/Issue%233/2.jpg)
+![git](help/2.jpg)
 
    -> Clone URI.
 
-![git_clone](https://github.com/Tawishi/game_of_life/blob/Issue%233/3.jpg)
+![git_clone](help/3.jpg)
 
-2. Set URI GIT_CLONE_URI.
-
-![Import_project](https://github.com/Tawishi/game_of_life/blob/Issue%233/issue2.jpg)
-
+2. Set Location URI to GIT CLONE URI.
 3. Insert your authentication details, then click Next.
 4. Choose your branch/branches, then click Next.
 5. Choose Destination directory (or use suggested one). 
