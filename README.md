@@ -3,8 +3,8 @@
 
 This an OOP implementation of Conway's game of life in C++. 
 Use of abstract classes and interface allows possibility of extension (inheriting from Board.h or NormalBoard.h) like:
- - [Langton’s Ant](https://en.wikipedia.org/wiki/Brian%27s_Brain)
- - [Brian’s Brain](https://en.wikipedia.org/wiki/Langton%27s_ant)
+ - [Langton’s Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
+ - [Brian’s Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
  - [Day and Night](https://en.wikipedia.org/wiki/Day_and_Night_(cellular_automaton))
  - [Pretty print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en) 
  - etc...
