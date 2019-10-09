@@ -4,7 +4,7 @@
 This an OOP implementation of Conway's game of life in C++. 
 Use of abstract classes and interface allows possibility of extension (inheriting from Board.h or NormalBoard.h) like:
  - [Langton’s Ant](https://en.wikipedia.org/wiki/Brian%27s_Brain)
- - [Brian’s Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
+ - [Brian’s Brain](https://en.wikipedia.org/wiki/Langton%27s_ant)
  - [Day and Night](https://en.wikipedia.org/wiki/Day_and_Night_(cellular_automaton))
  - [Pretty print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en) 
  - etc...
@@ -12,7 +12,6 @@ Use of abstract classes and interface allows possibility of extension (inheritin
 To build current code use [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/packages/release/helios/sr2/eclipse-ide-cc-developers).
 The instructions in Eclipse are:
 
-**(please delete .cproject and .project from your branch before importing it to eclipse. If possible add them to .gitignore)**
 1. File -> Import... 
 
 ![file menu](https://github.com/Tawishi/game_of_life/blob/Issue%233/1.jpg)
