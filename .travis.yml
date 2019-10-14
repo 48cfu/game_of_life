@@ -1,4 +1,5 @@
 language: cpp
+os: windows
 
 compiler:
   - gcc
@@ -7,6 +8,8 @@ compiler:
 before_script:
   - mkdir build
   - cd build
-  - cmake ..
+  - mkdir default
+  - cd ..
+  - cd ..
 
-script: make
+script: cmake --build
