@@ -4,6 +4,7 @@ os: windows
 compiler:
   - gcc
   - clang
+  - cmake
 
 before_script:
   - mkdir build
@@ -12,4 +13,4 @@ before_script:
   - cd ..
   - cd ..
 
-script: cmake --build
+script: cmake
