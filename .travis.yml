@@ -1,6 +1,4 @@
 language: cpp
-os: windows
-
 compiler:
   - cmake
 
@@ -9,4 +7,4 @@ before_script:
   - cd build
   - cmake ..
 
-script: cmake ..
+script: make
