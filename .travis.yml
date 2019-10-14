@@ -9,8 +9,6 @@ compiler:
 before_script:
   - mkdir build
   - cd build
-  - mkdir default
-  - cd ..
   - cmake ..
 
 script: make
