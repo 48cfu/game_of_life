@@ -5,7 +5,7 @@
 
 #include "Board.h"
 #include "NormalBoard.h"
-//#include "SpecializedBoard.h"
+#include "SpecializedBoard.h"
 
 #include "PrettyPrint.h"
 #include "ToConsole.h"
