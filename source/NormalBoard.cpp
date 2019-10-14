@@ -5,12 +5,13 @@
  *      Author: Precious Ugo Abara
  */
 
-#include "NormalBoard.h"
 
 #include "Board.h"
-//#include "u_index.h"
+#include "NormalBoard.h"
+
 #include <ctime>    // For time()
 #include <cstdlib>  // For srand() and rand()
+
 #include <iostream>
 #include <memory>
 #include <exception>

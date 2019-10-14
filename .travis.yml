@@ -1,5 +1,12 @@
 language: cpp
 os: windows
+
 compiler:
-- gcc
-- cmake
+  - cmake
+
+before_script:
+  - mkdir build
+  - cd build
+  - cmake ..
+
+script: cmake ..

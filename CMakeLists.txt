@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 3.5)
 set(CMAKE_CXX_STANDARD 17)
 
-project (GameOfLife  VERSION 1.0.0 LANGUAGES CXX)
+project (GameOfLife  VERSION 1.0.1 LANGUAGES CXX)
 add_executable(GameOfLife ${CMAKE_CURRENT_SOURCE_DIR}/source//GameOfLife.cpp)
 
 add_library(TCONSOLE ${CMAKE_CURRENT_SOURCE_DIR}/source/ToConsole.cpp)
