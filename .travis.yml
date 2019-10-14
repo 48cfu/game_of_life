@@ -9,4 +9,4 @@ before_script:
   - cd build
   - cmake ..
 
-script: gcc ..
+script: cmake ..
