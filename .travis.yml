@@ -11,6 +11,5 @@ before_script:
   - cd build
   - mkdir default
   - cd ..
-  - cd ..
 
-script: cmake
+script: cmake ..
