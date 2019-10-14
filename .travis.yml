@@ -2,11 +2,6 @@ language: cpp
 os: windows
 
 compiler:
-<<<<<<< HEAD
-=======
-  - gcc
-  - clang
->>>>>>> e95a23c380d00627caa33c65d6dd4530db383153
   - cmake
 
 before_script:
