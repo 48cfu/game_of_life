@@ -6,7 +6,7 @@ Use of abstract classes and interface allows possibility of extension (inheritin
  - [Langton’s Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
  - [Brian’s Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
  - [Day and Night](https://en.wikipedia.org/wiki/Day_and_Night_(cellular_automaton))
- - [Pretty print](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg?hl=en) 
+ - [Pretty print](#) 
  - etc...
  
 To build current code use [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/packages/release/helios/sr2/eclipse-ide-cc-developers).
